@@ -117,7 +117,7 @@ Deep learning-based nonlinear model.
 
 # Explainable AI
 
-SHAP (Shapley Additive Explanations) was used to identify:
+SHAP (SHapley Additive exPlanations) was used to identify:
 
 - Important engineering variables
 - Contribution of each parameter to model predictions
