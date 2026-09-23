@@ -64,18 +64,23 @@ The dataset contains 768 building samples with:
 The workflow consists of:
 
 Engineering Dataset
+ 
    ↓
 
 Data Analysis
+   
    ↓
 
 Machine Learning Models
+   
    ↓
 
 Prediction Evaluation
+   
    ↓
 
 Explainable AI Analysis
+   
    ↓
 
 Optimization Study
