@@ -129,25 +129,15 @@ This improves trust and usability of AI models in engineering applications.
 
 ---
 
-# Optimization Study
+# Sensitivity Analysis and Future Optimization
 
-The trained machine learning model was used as a surrogate model for design analysis.
+To understand the influence of individual building design parameters on energy performance, a sensitivity analysis was performed using the trained Random Forest model.
 
-Example:
+The glazing area parameter was systematically varied while keeping other building characteristics constant. The resulting predictions were analyzed to investigate how changes in building design parameters affect heating demand.
 
-Changing building parameters
+This approach provides engineering insight into feature influence beyond model prediction.
 
-↓
-
-AI prediction
-
-↓
-
-Estimate energy impact
-
-↓
-
-Support engineering decisions
+Future extensions of this work may include integrating advanced optimization techniques, such as Bayesian optimization or evolutionary algorithms, to identify optimal building design configurations for minimizing energy consumption.
 
 
 ---
@@ -184,7 +174,7 @@ The project demonstrates:
 
 ✓ Explainable AI for engineering interpretation
 
-✓ AI-assisted optimization approach
+✓ Sensitivity Analysis and Future Optimization Scope
 
 
 ---
@@ -193,10 +183,11 @@ The project demonstrates:
 
 Possible future developments:
 
+- Real-time engineering optimization
 - Physics-informed machine learning
 - Digital twin development
 - Hybrid AI-process models
-- Real-time engineering optimization
+
 
 
 ---
