@@ -1,17 +1,18 @@
-# Explainable AI-Based Energy Efficiency Optimization Framework
+# Explainable Machine Learning-Based Building Energy Performance Analysis
 
 ## Overview
 
-This project develops a machine learning-based framework for predicting energy demand and identifying important engineering parameters affecting energy efficiency.
+This project explores the application of machine learning and explainable artificial intelligence (XAI) to building energy performance analysis.
 
-The objective is to demonstrate how artificial intelligence and data-driven methods can support sustainable engineering decision-making.
+The objective is to develop data-driven models for predicting building heating demand and to investigate the influence of building design parameters on energy performance.
 
-The framework combines:
+The project combines:
 
 - Engineering data analysis
-- Machine learning prediction
-- Explainable Artificial Intelligence (XAI)
-- Optimization-based design analysis
+- Machine learning-based prediction
+- Model evaluation
+- Explainable Artificial Intelligence (XAI) using SHAP
+- Sensitivity analysis of building design parameters
 
 
 ---
@@ -83,7 +84,11 @@ Explainable AI Analysis
    
    ↓
 
-Optimization Study
+Sensitivity analysis of selected building parameters
+
+   ↓
+
+Identification of potential directions for future optimization
 
 
 ---
