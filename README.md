@@ -35,14 +35,12 @@ Can machine learning models predict energy demand from engineering design parame
 
 ---
 
+
 # Dataset
 
-Dataset:
+**UCI Energy Efficiency Dataset**
 
-UCI Energy Efficiency Dataset
-
-Dataset Link : https://archive.ics.uci.edu/dataset/242/energy+efficiency
-
+[View Dataset on UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/242/energy+efficiency)
 
 The dataset contains 768 building samples with:
 
